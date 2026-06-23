@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Execution Sensei</string>
+    <string name="accessibility_service_description">Interrupts configured distraction apps and redirects you back into your disciplined next move.</string>
+</resources>
